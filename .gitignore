@@ -1,0 +1,31 @@
+# Variáveis de ambiente (contém API Keys)
+.env
+
+# Ambiente virtual Python
+venv/
+.venv/
+
+# Arquivos compilados Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Modelos GGUF locais (arquivos grandes, não devem ir para o Git)
+modelos/
+
+# Arquivos de log
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/

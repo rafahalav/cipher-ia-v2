@@ -1,0 +1,12 @@
+# Interface com o servidor Ollama local (Modo CLI)
+ollama
+
+# Interface de Terminal Rica e Colorida
+rich
+
+# Interface Web (Modo Nuvem)
+streamlit
+groq
+
+# Utilitários
+python-dotenv
