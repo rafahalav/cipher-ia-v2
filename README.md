@@ -73,7 +73,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Baixar modelo local (2GB)
-ollama pull qwen2.5:3b
+ollama pull qwen2.5:1.5b
 ```
 
 ### 3. Configure a API Key
