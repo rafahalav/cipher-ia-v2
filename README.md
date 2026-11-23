@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/cipher-ia-v2banner.png"
        width="100%"
