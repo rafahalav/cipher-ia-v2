@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cipher-ia-v2banner.png"
+  <img src="assets/cipher-ia-v2/banner.png"
        width="100%"
        alt="Cipher IA v2 - Assistente de Cibersegurança com IA">
 </p>
