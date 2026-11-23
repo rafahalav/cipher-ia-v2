@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="assets/cipher-ia-banner.png"
+       width="100%"
+       alt="Cipher IA v2 - Assistente de Cibersegurança com IA">
+</p>
+
 # 🛡️ CIPHER IA v2 - Cybersecurity Expert Assistant
 
 [![Python 3.13+](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
